@@ -1,0 +1,10 @@
+body{
+    background-image: url("../images/mariobackground.png");
+    background-repeat: no-repeat;
+    background-size: 1900px 1200px;
+    font-family:Arial, Helvetica, sans-serif, 'helvetica neue';
+}
+div > div{
+    background-color:green;
+    color:yellow;
+}
